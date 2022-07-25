@@ -1,0 +1,17 @@
+*.o
+*.d
+*.log
+*.err
+*.obj
+*.map
+*.mk
+*.mk1
+*.sym
+*.lk1
+/.deps
+/.objs
+/.vscode
+/.watcom/glendbg.exe
+glendbg.exe
+glenfly_tool_debug.exe
+glenfly_tool_debug
